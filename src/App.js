@@ -33,7 +33,7 @@ import Test from "./component/test/test";
 class App extends React.Component {
   render() {
     return (
-      <Provider>l
+      <Provider>
         <Router>
         <div className="App">
           <Header branding="Contact Manager" />
